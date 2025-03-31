@@ -5,8 +5,8 @@
 This project provides a complete, production-grade solution to deploy a Docker-based web application on an AWS EC2 instance using GitHub Actions for CI/CD. It includes a secure EC2 setup, Docker Compose-based service orchestration, SSL termination via NGINX with Let's Encrypt, and secrets management using GitHub Secrets and, optionally, AWS Systems Manager. Perfect for teams or individuals looking to set up a robust deployment pipeline with best practices and automation.
 
 
-    - [Description](#description)
-    - [Problem Statement](#problem-statement)
+- [Description](#description)
+- [Problem Statement](#problem-statement)
 - [Architecture Overview](#architecture-overview)
     - [Tech Stack & Requirements](#tech-stack--requirements)
     - [Directory Structure Explanation](#directory-structure-explanation)
