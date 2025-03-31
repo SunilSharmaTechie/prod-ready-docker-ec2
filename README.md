@@ -441,12 +441,12 @@ You are free to use, modify, and distribute this codebase for both personal and 
 
 For full legal terms, see the [LICENSE](./LICENSE) file included in this repository.
 
-## **Live Deployment Demo or Blog**
+## **Live Deployment Demo**
 
 A complete walkthrough and hands-on demonstration of this project is coming soon.
 
 - **Live Blog Post:** Coming Soon
-- **Demo Video (Optional):** Coming Soon
+- **Demo Video :** Coming Soon
 - **Screenshots & Diagrams:** Coming Soon
 
 These resources will help you follow along step by step, debug setup issues, and understand the reasoning behind key architectural choices.
