@@ -1,8 +1,21 @@
-#Production-Ready Docker Deployment on AWS EC2 with GitHub Actions CI/CD and SSL
+# Production-Ready Docker Deployment on AWS EC2 with GitHub Actions CI/CD and SSL
 
 ## **Description**
 
 This project provides a complete, production-grade solution to deploy a Docker-based web application on an AWS EC2 instance using GitHub Actions for CI/CD. It includes a secure EC2 setup, Docker Compose-based service orchestration, SSL termination via NGINX with Let's Encrypt, and secrets management using GitHub Secrets and, optionally, AWS Systems Manager. Perfect for teams or individuals looking to set up a robust deployment pipeline with best practices and automation.
+
+
+    - [Description](#description)
+    - [Problem Statement](#problem-statement)
+- [Architecture Overview](#architecture-overview)
+    - [Tech Stack & Requirements](#tech-stack--requirements)
+    - [Directory Structure Explanation](#directory-structure-explanation)
+    - [GitHub Actions CI/CD Pipeline](#github-actions-cicd-pipeline)
+    - [Maintenance & Scaling Guide](#maintenance--scaling-guide)
+    - [Bonus: Database Migration Handling](#bonus-database-migration-handling)
+    - [License](#license)
+    - [Live Deployment Demo or Blog](#live-deployment-demo-or-blog)
+
 
 ## **Problem Statement**
 
@@ -426,7 +439,7 @@ You are free to use, modify, and distribute this codebase for both personal and 
 - You must include the original license and copyright.
 - You may reuse the code in closed-source applications.
 
-For full legal terms, see the [LICENSE](https://www.notion.so/LICENSE) file included in this repository.
+For full legal terms, see the [LICENSE](./LICENSE) file included in this repository.
 
 ## **Live Deployment Demo or Blog**
 
